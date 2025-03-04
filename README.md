@@ -26,4 +26,13 @@ For Tableau portfolio, refer to [Tableau Profile](https://public.tableau.com/app
 
 Examples:
 
+### HR Dashboard
+
+![HR Dashboard](https://github.com/Ellinis1/images-/blob/main/HR_dashboard.png)
+
+### House Sales
+
+![House Sales Dashboard](https://github.com/Ellinis1/images-/blob/main/HouseSalesDashboard.png)
+
+
 
