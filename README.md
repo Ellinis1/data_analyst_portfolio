@@ -20,11 +20,11 @@ Key features:
 
 [Project Details](https://github.com/Ellinis1/delivery_jedha/blob/c214ed062d76d38e05b5f31ae22c2f2d2796e5f5/README.md)
 
-## Tableau
+Example of an Executive Summary
 
-For Tableau portfolio, refer to [Tableau Profile](https://public.tableau.com/app/profile/anna.borodina)
+[Dashboard](https://github.com/Ellinis1/images-/blob/main/DeliveryProject4.png)
 
-Examples:
+## Tableau dashboards
 
 ### HR Dashboard
 
@@ -33,6 +33,14 @@ Examples:
 ### House Sales
 
 ![House Sales Dashboard](https://github.com/Ellinis1/images-/blob/main/HouseSalesDashboard.png)
+
+### What I read in 2024
+
+![Books](https://github.com/Ellinis1/images-/blob/main/What_I_Read.png)
+
+For more of Tableau portfolio, refer to [Tableau Profile](https://public.tableau.com/app/profile/anna.borodina)
+
+
 
 
 
