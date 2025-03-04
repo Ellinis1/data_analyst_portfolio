@@ -10,5 +10,20 @@ Below are the examples of my projects that showcase my skills
 
 ## Food Delivery Project
 
-A certification project focused on a food delivery company, including data cleaning, data exploration, creation of actionable dashboards and predicting delivery time using machine learning models.
+A certification project focused on a food delivery company
+
+Key features:
+- Data cleaning
+- Data exploration
+- Data visualisation and dashboards
+- Predicting with machine learning
+
 [Project Details](https://github.com/Ellinis1/delivery_jedha/blob/c214ed062d76d38e05b5f31ae22c2f2d2796e5f5/README.md)
+
+## Tableau
+
+For Tableau portfolio, refer to [Tableau Profile](https://public.tableau.com/app/profile/anna.borodina)
+
+Examples:
+
+
