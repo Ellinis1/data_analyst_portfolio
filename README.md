@@ -22,7 +22,7 @@ Key features:
 
 Example of an Executive Summary
 
-[Dashboard](https://github.com/Ellinis1/images-/blob/main/DeliveryProject4.png)
+![Dashboard](https://github.com/Ellinis1/images-/blob/main/DeliveryProject4.png)
 
 ## Tableau dashboards
 
