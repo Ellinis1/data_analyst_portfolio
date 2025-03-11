@@ -18,7 +18,7 @@ Key features:
 - Data visualisation and dashboards
 - Predicting with machine learning
 
-[Project Details](https://github.com/Ellinis1/delivery_jedha/blob/c214ed062d76d38e05b5f31ae22c2f2d2796e5f5/README.md)
+[Project Details](https://github.com/Ellinis1/delivery_jedha/blob/main/README.md)
 
 Example of an Executive Summary
 
